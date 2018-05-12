@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26060
     wikipedia: http://zh.wikipedia.org/wiki/%E5%90%B3%E6%B2%83%E5%A0%AF
 description: The book was published by Shi Jie Fan Hua newspaper office in A.D. 1906.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23827#----
 gutenberg_issued: '2007-12-12'
 gutenberg_type: Text
 identifiers:
